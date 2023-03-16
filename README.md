@@ -1,15 +1,15 @@
-<h1 align="center", color="red">Leclerc</h1>
+<h1 align="center"><span style="color:red">Leclerc</span></h1>
 
 ![This is an image](https://cdn.pixabay.com/photo/2013/03/22/23/37/ferrari-96052_1280.png)
 
-<h4 align="center">A fast and efficient montecarlo analysis conductor</h4>
+<h3 align="center">A fast and efficient montecarlo analysis conductor</h3>
 	
-**What is Leclerc?**
+<h2>**What is Leclerc?**</h2>
 
 Leclerc is a Sun Cable initiative that creates a PERT wrapper around levelised cost formulas to identify Monte Carlo trends in PERT inputs.
 This package has derived work done by Heiko Onnen which can be found at: https://towardsdatascience.com/python-powered-monte-carlo-simulations-fc3c71b5b83f and https://towardsdatascience.com/python-scenario-analysis-modeling-expert-estimates-with-the-beta-pert-distribution-22a5e90cfa79.
 
-**How to Install**
+<h2>**How to Install**</h2>
 
 1. To get started, you must first have a Development Environment. For ease of use, we recommend Visual Studio Code which can be downloaded at: https://code.visualstudio.com/Download
 
@@ -24,12 +24,12 @@ This package has derived work done by Heiko Onnen which can be found at: https:/
 5. Running ```pip install leclerc``` will install the leclerc package. To download with all dependencies, run ```python3 -m pip install --upgrade --no-cache-dir --use-deprecated=legacy-resolver leclerc```
 
 
-**How to Use**
+<h2>**How to Use**</h2>
 
 To use this package, call a formula and add the parameters. For inputs that have uncertainty, apply the PERT parameter. The output should give a bokeh html showcasing a histogram of the levelised cost parameter and PDF plots for inputs. 
 
 
-**Example Case for Area:**
+<h2>**Example Case for Area:**</h2>
 
 ```
 @pert_monte_carlo
@@ -44,7 +44,7 @@ results = rectangle_area(
 )
 ```
 
-**Dependencies**
+<h2>**Dependencies**</h2>
 
 Leclerc uses the following packages:
 
