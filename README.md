@@ -1,10 +1,6 @@
-<h1>
 ![This is an image](https://cdn.pixabay.com/photo/2013/03/22/23/37/ferrari-96052_1280.png)
-</h1>
 
 <h4 align="center">A fast and efficient montecarlo analysis conductor</h4>
-
-<h1><h/1>
 	
 **What is Leclerc?**
 
