@@ -17,7 +17,7 @@ This package has derived work done by Heiko Onnen which can be found at: https:/
 
 3. Code your desired formula into a python file and place in a folder as shown below:
 
-**FILLER IMAGE**
+![This is an image](Images/image.png)
 
 4. Install pip from your VS Code Terminal using ```python get-pip.py```. For more information on pip: https://pip.pypa.io/en/stable/installation/
 
