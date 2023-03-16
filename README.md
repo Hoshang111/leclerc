@@ -1,9 +1,10 @@
-<h1 align="center"><span style="color:red">Leclerc</span></h1>
+<h1 align="center">Leclerc</h1>
 
-![This is an image](https://e7.pngegg.com/pngimages/207/746/png-clipart-ferrari-challenge-weathertech-sportscar-championship-auto-racing-car-driving-racing.png)
+<h2 align="center">A fast and efficient montecarlo analysis conductor</h2>
 
-<h3 align="center">A fast and efficient montecarlo analysis conductor</h3>
-<br></br>
+<p align="center">
+<img src=Images/logo.png width="300" height="300"/>
+</p>
 
 <h2>**What is Leclerc?**</h2>
 
